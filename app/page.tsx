@@ -57,7 +57,7 @@ export default function Home() {
                   Personalized coaching and expert guidance to help students excel in academics and competitive exams.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3">
-                  <Button size="lg">Book a Free Trial Class</Button>
+                  <Button size="lg">Know Your Potential!</Button>
                   <Button variant="outline" size="lg">
                     Explore Programs
                   </Button>
@@ -516,14 +516,7 @@ export default function Home() {
               </div>
               <div className="flex flex-col sm:flex-row gap-4 min-[400px]:gap-6">
                 <Button size="lg" variant="secondary">
-                  Know Your Potenti
-                </Button>
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="bg-transparent text-primary-foreground border-primary-foreground hover:bg-primary-foreground hover:text-primary"
-                >
-                  Contact Us
+                  Know Your Potential!
                 </Button>
               </div>
             </div>
