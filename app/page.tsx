@@ -516,7 +516,7 @@ export default function Home() {
               </div>
               <div className="flex flex-col sm:flex-row gap-4 min-[400px]:gap-6">
                 <Button size="lg" variant="secondary">
-                  Book a Free Trial Class
+                  Know Your Potenti
                 </Button>
                 <Button
                   size="lg"
