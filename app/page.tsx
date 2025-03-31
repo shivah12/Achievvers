@@ -58,9 +58,11 @@ export default function Home() {
                 <a href = "https://achievvers-know-your-potential.vercel.app/" target ="_blank" rel = "noopener noreferrer">
                   <Button size="lg">Know your Potential!</Button>
                 </a>
+                  <a href = "#programs" target ="_blank" rel = "noopener noreferrer">
                   <Button variant="outline" size="lg">
                     Explore Programs
                   </Button>
+                </a>
                 </div>
                 <div className="flex items-center gap-4 pt-4">
                   <div className="flex -space-x-2">
