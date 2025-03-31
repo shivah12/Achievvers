@@ -31,6 +31,9 @@ export default function Home() {
             <Link href="#contact" className="text-sm font-medium hover:text-primary">
               Contact
             </Link>
+            <Link href="#" className="text-sm font-medium hover:text-primary">
+              Uploads
+            </Link>
           </nav>
           <div className="flex items-center gap-4">
             <Button variant="outline" size="sm" className="hidden md:flex">
