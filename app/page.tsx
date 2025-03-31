@@ -35,12 +35,6 @@ export default function Home() {
               Uploads
             </Link>
           </nav>
-          <div className="flex items-center gap-4">
-            <Button variant="outline" size="sm" className="hidden md:flex">
-              Login
-            </Button>
-            <Button size="sm">Enroll Now</Button>
-          </div>
         </div>
       </header>
 
